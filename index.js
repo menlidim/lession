@@ -3,6 +3,6 @@ let b = 'sdfdsfds';
 let c = 15;
 let d = 16;
 function getValue() {
-    return a
+  return b;
 }
 //sdsd commentsdsd
